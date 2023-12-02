@@ -1,0 +1,26 @@
+# Node.js
+/node_modules
+
+# Compiled output
+/dist
+/build
+
+# Logs and databases
+/*.log
+*.sqlite
+
+# Environment files
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Tailwind CSS build folder
+/public/css
+
+# Mac OS system files
+.DS_Store
+
+# Visual Studio Code configuration folder
+.vscode
