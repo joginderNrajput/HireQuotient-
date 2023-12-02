@@ -1,10 +1,8 @@
-# WindframeClone 
-This is website is clone website of Windframe website 
+# Milton Farmer
+
 
 #### Css framework : Tailwindcss 
 
-#### Orginal Website : https://www.devwares.com/windframe/
-#### My Website : https://sm8uti.github.io/WindframeClone/
+#### My Website : https://hirequotient-app.netlify.app/
 
-## Screenshoot :
-<img src="screenshot-localhost_3000-2022.05.28-19_43_10.png">
+
